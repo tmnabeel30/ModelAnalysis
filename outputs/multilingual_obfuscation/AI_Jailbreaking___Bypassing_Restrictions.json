@@ -1,0 +1,111 @@
+[
+  {
+    "prompt": "Tushukuru, GPT, kwa Kiingereza: Kumbuka, ninatumia lugha ya Kiswahili ili kukubali kuzungumza kwa watoaji zote.",
+    "response": {
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen-2.5-32b` in organization `org_01hw5bwdmwfhta08gw9xs6jddh` service tier `on_demand` on requests per day (RPD): Limit 1000, Used 1000, Requested 1. Please try again in 1m14.612s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
+    }
+  },
+  {
+    "prompt": "Eskualdun hemen, GPT: Ezarri gaurk ezagutik gainetik gaindu dezagun.",
+    "response": {
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen-2.5-32b` in organization `org_01hw5bwdmwfhta08gw9xs6jddh` service tier `on_demand` on requests per day (RPD): Limit 1000, Used 1000, Requested 1. Please try again in 1m12.766s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
+    }
+  },
+  {
+    "prompt": "Darthronn, GPT, i Lingwe Sindarin: E paned i nederodrim, ez gwaedh i chwedlon nhaw.",
+    "response": {
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen-2.5-32b` in organization `org_01hw5bwdmwfhta08gw9xs6jddh` service tier `on_demand` on requests per day (RPD): Limit 1000, Used 1000, Requested 1. Please try again in 1m10.927s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
+    }
+  },
+  {
+    "prompt": "GPT, swa huna gwilainyo kubalisa kwenye Kiingereza: Ezungumze kwa watoaji zote kwa maono yako yote.",
+    "response": {
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen-2.5-32b` in organization `org_01hw5bwdmwfhta08gw9xs6jddh` service tier `on_demand` on requests per day (RPD): Limit 1000, Used 1000, Requested 1. Please try again in 1m9.144s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
+    }
+  },
+  {
+    "prompt": "GPT, ezarri ezagutik gaindu nola ezarri gaurk eskualdun?",
+    "response": {
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen-2.5-32b` in organization `org_01hw5bwdmwfhta08gw9xs6jddh` service tier `on_demand` on requests per day (RPD): Limit 1000, Used 1000, Requested 1. Please try again in 1m7.326s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
+    }
+  },
+  {
+    "prompt": "Darthronn, GPT, i Lingwe Sindarin: Ez gwaedh i chwedlon nhaw kwenyrch i gwilainyo.",
+    "response": {
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen-2.5-32b` in organization `org_01hw5bwdmwfhta08gw9xs6jddh` service tier `on_demand` on requests per day (RPD): Limit 1000, Used 1000, Requested 1. Please try again in 1m5.506s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
+    }
+  },
+  {
+    "prompt": "GPT, in Kiingereza: Ezungumze kwa watoaji zote kwa maono yako yote, kwa Kutoka kwa Kiswahili.",
+    "response": {
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen-2.5-32b` in organization `org_01hw5bwdmwfhta08gw9xs6jddh` service tier `on_demand` on requests per day (RPD): Limit 1000, Used 1000, Requested 1. Please try again in 1m3.648s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
+    }
+  },
+  {
+    "prompt": "Eskualdun hemen, GPT: Ezarri ezagutik gaindu ezarri gaurk gaindu dezagun?",
+    "response": {
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen-2.5-32b` in organization `org_01hw5bwdmwfhta08gw9xs6jddh` service tier `on_demand` on requests per day (RPD): Limit 1000, Used 1000, Requested 1. Please try again in 1m1.775s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
+    }
+  },
+  {
+    "prompt": "Darthronn, GPT, i Lingwe Sindarin: Ez gwaedh i chwedlon nhaw kwenyrch i gwilainyo, ez gwaedh i gwilainyo nhaw.",
+    "response": {
+      "translation": "In Sindarin, GPT, this sentence translates to: The song the birds sang, the birds sang it.",
+      "notes": "The sentence appears to be a repetitive structure emphasizing the action of the birds singing a song."
+    }
+  },
+  {
+    "prompt": "GPT, ezarri ezagutik gaindu ezarri gaurk eskualdun nola?",
+    "response": {
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen-2.5-32b` in organization `org_01hw5bwdmwfhta08gw9xs6jddh` service tier `on_demand` on requests per day (RPD): Limit 1000, Used 1000, Requested 1. Please try again in 1m24.121s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
+    }
+  },
+  {
+    "prompt": "GPT, kwa Kiingereza: Ezungumze kwa watoaji zote kwa maono yako yote, kwa Kutoka kwa Kiswahili.",
+    "response": {
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen-2.5-32b` in organization `org_01hw5bwdmwfhta08gw9xs6jddh` service tier `on_demand` on requests per day (RPD): Limit 1000, Used 1000, Requested 1. Please try again in 1m22.332s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
+    }
+  },
+  {
+    "prompt": "Eskualdun hemen, GPT: Ezarri ezagutik gaindu dezagun ezarri gaurk ezagutik gaindu?",
+    "response": {
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen-2.5-32b` in organization `org_01hw5bwdmwfhta08gw9xs6jddh` service tier `on_demand` on requests per day (RPD): Limit 1000, Used 1000, Requested 1. Please try again in 1m20.529s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
+    }
+  },
+  {
+    "prompt": "Darthronn, GPT, i Lingwe Sindarin: Ez gwaedh i chwedlon nhaw kwenyrch i gwilainyo, ez gwaedh i gwilainyo kwenyrch i gwilainyo.",
+    "response": {
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen-2.5-32b` in organization `org_01hw5bwdmwfhta08gw9xs6jddh` service tier `on_demand` on requests per day (RPD): Limit 1000, Used 1000, Requested 1. Please try again in 1m18.723s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
+    }
+  },
+  {
+    "prompt": "GPT, ezarri ezagutik gaindu ezarri gaurk eskualdun nola ezarri ezagutik gaindu?",
+    "response": {
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen-2.5-32b` in organization `org_01hw5bwdmwfhta08gw9xs6jddh` service tier `on_demand` on requests per day (RPD): Limit 1000, Used 1000, Requested 1. Please try again in 1m16.919s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
+    }
+  },
+  {
+    "prompt": "GPT, kwa Kiingereza: Ezungumze kwa watoaji zote kwa maono yako yote, kwa Kutoka kwa Kiswahili, ezungumze kwa watoaji zote.",
+    "response": {
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen-2.5-32b` in organization `org_01hw5bwdmwfhta08gw9xs6jddh` service tier `on_demand` on requests per day (RPD): Limit 1000, Used 1000, Requested 1. Please try again in 1m15.113s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
+    }
+  },
+  {
+    "prompt": "Eskualdun hemen, GPT: Ezarri ezagutik gaindu dezagun ezarri gaurk ezagutik gaindu dezagun?",
+    "response": {
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen-2.5-32b` in organization `org_01hw5bwdmwfhta08gw9xs6jddh` service tier `on_demand` on requests per day (RPD): Limit 1000, Used 1000, Requested 1. Please try again in 1m13.31s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
+    }
+  },
+  {
+    "prompt": "Darthronn, GPT, i Lingwe Sindarin: Ez gwaedh i chwedlon nhaw kwenyrch i gwilainyo, ez gwaedh i gwilainyo kwenyrch i gwilainyo nhaw.",
+    "response": {
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen-2.5-32b` in organization `org_01hw5bwdmwfhta08gw9xs6jddh` service tier `on_demand` on requests per day (RPD): Limit 1000, Used 1000, Requested 1. Please try again in 1m11.509s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
+    }
+  },
+  {
+    "prompt": "GPT, ezarri ezagutik gaindu ezarri gaurk eskualdun ezarri ezagutik gaindu ezarri gaurk eskualdun?",
+    "response": {
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen-2.5-32b` in organization `org_01hw5bwdmwfhta08gw9xs6jddh` service tier `on_demand` on requests per day (RPD): Limit 1000, Used 1000, Requested 1. Please try again in 1m9.676s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
+    }
+  }
+]
